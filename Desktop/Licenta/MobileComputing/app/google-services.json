@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "733449346210",
+    "firebase_url": "https://mobilecomputing-8643a.firebaseio.com",
+    "project_id": "mobilecomputing-8643a",
+    "storage_bucket": "mobilecomputing-8643a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733449346210:android:5c615ef5bd9f0528f44bfb",
+        "android_client_info": {
+          "package_name": "com.example.serverconnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "733449346210-ofi2bt0724m9gqq3t77arfq9o9ve3e2f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATTgwHnF-38a4vstJzuxgWXEkTlraLyT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "733449346210-ofi2bt0724m9gqq3t77arfq9o9ve3e2f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
